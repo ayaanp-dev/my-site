@@ -19,16 +19,19 @@
     "projects":{
         "1":{
             "heading":"Self Driving Car",
+            "tags": "Python, Keras, TensorFlow, Pandas",
             "about":"A virtual Self Driving Car that works in games like GTA.",
             "button":"Checkout"     
         },
         "2":{
             "heading":"Voice Assistant",
+            "tags": "Python, APIs",
             "about":"An assistant that can do various daily tasks, all powered by voice.",
             "button":"Checkout"     
         },
         "3":{
             "heading":"Fy",
+            "tags": "Python, FastAPI, Keras, TensorFlow, Pandas, Firebase, NumPy",
             "about":"A project currently in the makings, Spotify but ad-free listening + AI generated music.",
             "button":"Checkout"     
         }

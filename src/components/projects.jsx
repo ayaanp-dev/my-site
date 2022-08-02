@@ -8,6 +8,7 @@ function projects() {
      
     <div class="card-body border-2 rounded-lg ml-10 hue">
       <h2 class="card-title text-white">{data.projects[1].heading}</h2>
+      <p className='text-white proj_tags'>Tags: {data.projects[1].tags}</p>
       <p className='text-white'>{data.projects[1].about}</p>
       <div class="card-actions justify-end">
       <a href="https://github.com/ayaanp-dev/tweakedSelfDrive"><button class="btn btn-outline btn-error mr-4">{data.projects[1].button}</button></a>
@@ -15,6 +16,7 @@ function projects() {
     </div>
     <div class="card-body border-2 rounded-lg ml-10  hue ">
       <h2 class="card-title text-white">{data.projects[2].heading}</h2>
+      <p className='text-white proj_tags'>Tags: {data.projects[2].tags}</p>
       <p className='text-white'>{data.projects[2].about}</p>
       <div class="card-actions justify-end">
       <a href="https://github.com/ayaanp-dev/voiceAssistant"><button class="btn btn-outline btn-warning mr-4">{data.projects[2].button}</button></a>
@@ -22,6 +24,7 @@ function projects() {
     </div>
     <div class="card-body border-2 rounded-lg ml-10 mr-10 hue">
       <h2 class="card-title text-white">{data.projects[3].heading}</h2>
+      <p className='text-white proj_tags'>Tags: {data.projects[3].tags}</p>
       <p className='text-white'>{data.projects[3].about}</p>
       <div class="card-actions justify-end">
         <a href="https://github.com/ayaanp-dev/fy-backend"><button class="btn btn-outline btn-success mr-4">{data.projects[3].button}</button></a>

@@ -8,6 +8,7 @@
 body{
   font-family: 'Red Hat Display', sans-serif;
   background-color:black;
+  padding-bottom: 30px;
 }
 
 .hi{
@@ -60,6 +61,10 @@ body{
 	/*Small smartphones [325px -> 425px]*/
 }
 
-.div-skill{
- 
+.proj_tags {
+  font-size: 11px;
+}
+
+.navbar-end {
+  padding-right: 10px;
 }
