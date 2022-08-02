@@ -1,0 +1,37 @@
+{
+    "intro":"👋 Yo, I am",
+    "name":"Ayaan Panda",
+    "about":"I'm a backend programmer, mainly machine learning and deep learning, as well as automation and API development. I have been coding for over 2 years and have made numerous projects and lots of freelancing as well. I share knowledge and document my journey through YouTube(and soon to be blog)!" ,
+    "skillsone":{
+        "heading":"Machine learning/Data science",
+        "1":"Keras",
+        "2":"Pandas",
+        "3":"Numpy",
+        "4":"TensorFlow"
+    },
+    "skillstwo":{
+        "heading":"Backend",
+        "1":"Flask",
+        "2":"FastAPI",
+        "3":"Django",
+        "4":"Selenium"
+    },
+    "projects":{
+        "1":{
+            "heading":"Self Driving Car",
+            "about":"A virtual Self Driving Car that works in games like GTA.",
+            "button":"Checkout"     
+        },
+        "2":{
+            "heading":"Voice Assistant",
+            "about":"An assistant that can do various daily tasks, all powered by voice.",
+            "button":"Checkout"     
+        },
+        "3":{
+            "heading":"Fy",
+            "about":"A project currently in the makings, Spotify but ad-free listening + AI generated music.",
+            "button":"Checkout"     
+        }
+    }
+
+}
