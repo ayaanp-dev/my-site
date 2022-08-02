@@ -33,7 +33,7 @@ function skills() {
   </div>
   <h1 className='text-white text-2xl pt-4 pb-2'>{data.skillstwo[2]}</h1>
       <div class="w-80 pr-20 bg-gray-200 rounded-full dark:bg-gray-700">
-    <div class="bg-red-600 text-xs font-medium text-blue-100 text-center p-0.5 leading-none rounded-full div-skill  text-black"> 75%</div>
+    <div class="bg-red-600 text-xs font-medium text-blue-100 text-center p-0.5 leading-none rounded-full div-skill"> 75%</div>
   </div>
   <h1 className='text-white text-2xl pt-4 pb-2'>{data.skillstwo[3]}</h1>
       <div class="w-80 pr-36 bg-gray-200 rounded-full dark:bg-gray-700">
